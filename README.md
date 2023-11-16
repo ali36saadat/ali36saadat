@@ -5,7 +5,7 @@
 </h1>
 
 ###
-<h3 align="center">A passionate frontend developer and technologies lover</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" style="width:400px "  src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali36saadat&label=Profile%20views&color=0e75b6&style=flat" alt="ali saadat" /> </p>
 
