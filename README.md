@@ -19,6 +19,7 @@
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Next](https://img.shields.io/static/v1?logo=nextdotjs&label=&message=Next&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![SocketIO](https://img.shields.io/static/v1?logo=socket.io&label=&message=Socket%20IO&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 
@@ -32,7 +33,5 @@
 ## Contact
 
 <a href="https://x.com/Ali36Saadat">![Twitter](https://img.shields.io/static/v1?logo=x&message=Twitter&label=&color=EEEEEE&logoColor=2D333B&style=flat-square)</a>
-<a href="https://www.linkedin.com/in/ali36saadat">![LinkedIn](https://img.shields.io/static/v1?logo=inspire&message=LinkedIn&label=&color=EEEEEE&logoColor=2D333B&style=flat-square)</a>
-<a href="https://www.reddit.com/user/Ali36Saadat/">![Reddit](https://img.shields.io/static/v1?logo=reddit&message=Reddit&label=&color=EEEEEE&logoColor=2D333B&style=flat-square)</a>
 
 </div>
