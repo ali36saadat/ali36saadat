@@ -1,5 +1,5 @@
-![Header - Night](https://github.com/ali36saadat/ali36saadat/raw/main/assets/Dark-Mode-Header.png#gh-dark-mode-only)
-![Header - Day](https://github.com/ali36saadat/ali36saadat/raw/main/assets/Light-Mode-Header.png#gh-light-mode-only)
+![Header - Night](https://github.com/ali36saadat/ali36saadat/blob/main/assets/Dark%20Mode%20Header.png#gh-dark-mode-only)
+![Header - Day](https://github.com/ali36saadat/ali36saadat/blob/main/assets/Light%20Mode%20Header.png#gh-light-mode-only)
 
 <div align="center" >
 
@@ -12,14 +12,14 @@
 ## Tech Stack
 
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=Html&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![css](https://img.shields.io/static/v1?logo=css3&label=&message=Css&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![css](https://img.shields.io/static/v1?logo=css&label=&message=Css&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![sass](https://img.shields.io/static/v1?logo=sass&label=&message=Sass&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![tailwindcss](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Nest](https://img.shields.io/static/v1?logo=nestjs&label=&message=Nest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Next](https://img.shields.io/static/v1?logo=nextdotjs&label=&message=Next&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![SocketIO](https://img.shields.io/static/v1?logo=socket.io&label=&message=Socket%20IO&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 
