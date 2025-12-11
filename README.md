@@ -1,5 +1,5 @@
-![Header - Night](https://github.com/ali36saadat/ali36saadat/raw/main/assets/Header-Night.jpg#gh-dark-mode-only)
-![Header - Day](https://github.com/ali36saadat/ali36saadat/raw/main/assets/Header-Day.png#gh-light-mode-only)
+![Header - Night](https://github.com/ali36saadat/ali36saadat/raw/main/assets/Dark-Mode-Header.png#gh-dark-mode-only)
+![Header - Day](https://github.com/ali36saadat/ali36saadat/raw/main/assets/Light-Mode-Header.png#gh-light-mode-only)
 
 <div align="center" >
 
