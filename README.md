@@ -1,37 +1,13 @@
-![Header - Night](https://github.com/ali36saadat/ali36saadat/blob/main/assets/Dark%20Mode%20Header.png#gh-dark-mode-only)
-![Header - Day](https://github.com/ali36saadat/ali36saadat/blob/main/assets/Light%20Mode%20Header.png#gh-light-mode-only)
-
-<div align="center" >
-
-### Hi there 👋, I'm Ali Saadat!
-
-</div>
-
 <div align="center">
-
-## Tech Stack
-
-![html](https://img.shields.io/static/v1?logo=html5&label=&message=Html&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![css](https://img.shields.io/static/v1?logo=css&label=&message=Css&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![sass](https://img.shields.io/static/v1?logo=sass&label=&message=Sass&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![tailwindcss](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Nest](https://img.shields.io/static/v1?logo=nestjs&label=&message=Nest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![SocketIO](https://img.shields.io/static/v1?logo=socket.io&label=&message=Socket%20IO&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-
-</div>
-
-<div align="center">
-
-## Contact
-
-<a href="https://x.com/Ali36Saadat">![Twitter](https://img.shields.io/static/v1?logo=x&message=Twitter&label=&color=EEEEEE&logoColor=2D333B&style=flat-square)</a>
-
+  <a href="https://x.com/ali36saadat">
+    <img src="https://img.shields.io/badge/Twitter-F0F6FC?style=for-the-badge&logo=x&logoColor=0D1117&labelColor=F0F6FC&color=F0F6FC" alt="Twitter" style="border: 1px solid #0D1117;"/>
+  </a>
+  
+  <a href="https://ali36saadat.github.io">
+    <img src="https://img.shields.io/badge/My%20Blog-F0F6FC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB3aWR0aD0iMjIiIGhlaWdodD0iMjMiIHZpZXdCb3g9IjAgMCAyMiAyMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTQuMjk2OSA1LjA0Njg4TDUuOTIxODggMjIuNzVIMEwxMi4wNjI1IDBIMTUuODQzOEwxNC4yOTY5IDUuMDQ2ODhaTTE1LjczNDQgMjIuNzVMMTMuNDIxOSA0LjVMMTMuNTQ2OSAwSDE3LjEwOTRMMjEuMzEyNSAyMi43NUgxNS43MzQ0Wk0xNi45NTMxIDE0LjI2NTZMMTYuMjAzMSAxOC41SDQuODQzNzVMNS41OTM3NSAxNC4yNjU2SDE2Ljk1MzFaIiBmaWxsPSIjMEQxMTE3Ii8+PC9zdmc%2B&logoColor=0D1117&labelColor=F0F6FC&color=F0F6FC" alt="My Blog" style="border: 1px solid #0D1117;"/>
+  </a>
+  
+  <a href="mailto:ali36saadat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F0F6FC?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=F0F6FC&color=F0F6FC" alt="Email" style="border: 1px solid #0D1117;"/>
+  </a>
 </div>
